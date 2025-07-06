@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --color-*: initial;
+    --color-primary: #F2E6C7;
+    --color-text: #563D2E;
+    --color-card: #FFDE97;
+    --font-jeju: "JejuMyeongjo", serif;
+}
